@@ -1,4 +1,4 @@
 # iele756-region-XX
 # Team Members: Renato Fernández and Vicente Vargas.
-# Assigned Region: Undesignated.
-# Project Description: 
+# Región Asignada: Región Metropolitana de Santiago (Maipú).
+# Descripción: 
